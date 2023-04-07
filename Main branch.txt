@@ -2,4 +2,5 @@ Vicky is the project lead
 
 He will assign roles to other members for SDLC::
 
-1. kamal is added in group 
+1. kamal is added in group  
+will add few other team members
