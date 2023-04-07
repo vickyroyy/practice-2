@@ -1,0 +1,3 @@
+Vicky is the project lead
+
+He will assign roles to other members for SDLC::
