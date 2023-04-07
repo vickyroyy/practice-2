@@ -4,3 +4,5 @@ He will assign roles to other members for SDLC::
 
 1. kamal is added in group  
 will add few other team members
+
+2. Kamal is added in default Branch 
